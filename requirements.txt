@@ -6,3 +6,4 @@ streamlit
 groq
 langchain-groq
 python-dotenv
+openpyxl
